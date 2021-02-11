@@ -28,39 +28,39 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h1 class="header">Routines</h1>
+                <h1 class="header">Hypertrophy</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <h6 class="sub-header">4 Routines</h6>
+                <h6 class="sub-header">4 Days</h6>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <a class="task" href="#">
-                    <i class="task-header">Strength</i>
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="v_selected_routine.php">
-                    <i class="task-header">Hypertrophy</i>
+                <a class="task" href="v_selected_workout.php">
+                    <i class="task-header">Chest/Triceps</i>
                 </a>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <a class="task" href="#">
-                    <i class="task-header">Cardio</i>
+                    <i class="task-header">Legs/Shoulders</i>
                 </a>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <a class="task" href="#">
-                    <i class="task-header">Deload</i>
+                    <i class="task-header">Back/Biceps</i>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="task" href="#">
+                    <i class="task-header">Arms</i>
                 </a>
             </div>
         </div>

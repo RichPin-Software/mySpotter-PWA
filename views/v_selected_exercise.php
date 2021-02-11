@@ -28,40 +28,17 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h1 class="header">Routines</h1>
+                <h1 class="header">Incline Db Chest Press</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <h6 class="sub-header">4 Routines</h6>
+                <h6 class="sub-header">3 Sets</h6>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <a class="task" href="#">
-                    <i class="task-header">Strength</i>
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="v_selected_routine.php">
-                    <i class="task-header">Hypertrophy</i>
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="#">
-                    <i class="task-header">Cardio</i>
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="#">
-                    <i class="task-header">Deload</i>
-                </a>
+                
             </div>
         </div>
     </div>

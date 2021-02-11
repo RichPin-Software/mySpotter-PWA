@@ -28,39 +28,53 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h1 class="header">Routines</h1>
+                <h1 class="header">Chest/Triceps</h1>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <h6 class="sub-header">4 Routines</h6>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="#">
-                    <i class="task-header">Strength</i>
-                </a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <a class="task" href="v_selected_routine.php">
-                    <i class="task-header">Hypertrophy</i>
-                </a>
+                <h6 class="sub-header">6 Exercises</h6>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <a class="task" href="#">
-                    <i class="task-header">Cardio</i>
+                    <i class="task-header">Push-ups</i>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="task" href="v_selected_exercise.php">
+                    <i class="task-header">Incline Db Chest Press</i>
                 </a>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <a class="task" href="#">
-                    <i class="task-header">Deload</i>
+                    <i class="task-header">Flat Db Chest Press</i>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="task" href="#">
+                    <i class="task-header">Incline Db Chest Fly</i>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="task" href="#">
+                    <i class="task-header">Dips</i>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <a class="task" href="#">
+                    <i class="task-header">Db Skull Crushers</i>
                 </a>
             </div>
         </div>
