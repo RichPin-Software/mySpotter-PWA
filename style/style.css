@@ -1,0 +1,43 @@
+body {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-header {
+    color: red;
+}
+
+.col1, .col2, .col3 {
+    padding-top: 10px;
+}
+
+.col2, .header, .sub-header {
+    text-align: center;
+}
+
+.col3 {
+    text-align: right;
+}
+
+.header {
+    margin-top: 50px;
+}
+
+.sub-header {
+    margin-bottom: 40px;
+}
+
+.task {
+    display: block;
+    height: 150px;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: rgba(255, 0, 0, 0.3);
+}
+
+.task-header {
+    color: black;
+}
