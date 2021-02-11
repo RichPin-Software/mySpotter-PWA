@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
     <!-- Main stylesheet -->
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="../style/style.css">
 
     <title>mySpotter</title>
   </head>
@@ -15,14 +15,14 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-2 col1">
-                <img src="icons/filter-left.svg" alt="dropdown-menu" />
+                <img src="../icons/filter-left.svg" alt="dropdown-menu" />
             </div>
             <div class="col-8 col2">
                 <h4 class="text-primary">mySpotter</h4>
             </div>
             <div class="col-2 col3">
                 <a class="add-routine" href="#">
-                <img src="icons/plus-circle-fill.svg" alt="add-routine" />
+                <img src="../icons/plus-circle-fill.svg" alt="add-routine" />
                 </a>
             </div>
         </div>
