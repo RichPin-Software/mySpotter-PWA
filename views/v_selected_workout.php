@@ -39,7 +39,7 @@
         <div class="row">
             <div class="col-12">
                 <a class="play-workout" href="#">
-                    <img class="play-icon" src="../icons/play-circle.svg" alt="add-routine" />
+                    <img class="play-icon" src="../icons/play-circle.svg" alt="play" />
                 </a>
             </div>
         </div>

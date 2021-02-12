@@ -41,15 +41,42 @@
                 <p class="notes">Lorem ipsum dolor sit amet consectetur adipisicing eli. Theo susss its the ddddd he lies.</p>
             </div>
         </div>
+        <div class="row ex-data-table">
+            <div class="col-4 ex-data">
+                <p>3</p>
+                <p class="text-primary">Sets</p>
+            </div>
+            <div class="col-4 ex-data">
+                <p>8-12</p>
+                <p class="text-primary">Reps</p>
+            </div>
+            <div class="col-4 ex-data">
+                <p>03:00</p>
+                <p class="text-primary">Rest</p>
+            </div>
+        </div>
+        <div class="row ex-data-table">
+            <div class="col-4 ex-data">
+                <p>30</p>
+                <p class="text-primary">Weight</p>
+            </div>
+            <div class="col-4 ex-data">
+                <p>9</p>
+                <p class="text-primary">Reps Last Set</p>
+            </div>
+            <div class="col-4 ex-data">
+                <p>30</p>
+                <p class="text-primary">Weight Last Set</p>
+            </div>
+        </div>
+        <div class="row timer">
+            <div class="col-12">01:22</div>
+        </div>
         <div class="row">
             <div class="col-12">
-                <table>
-                    <tr>
-                        <td>3</td>
-                        <td>8-12</td>
-                        <td>03:00</td>
-                    </tr>
-                </table>
+                <a class="play-workout" href="#">
+                    <img class="play-icon" src="../icons/play-circle.svg" alt="play" />
+                </a>
             </div>
         </div>
     </div>
