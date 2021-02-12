@@ -28,17 +28,28 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h1 class="header">Incline Db Chest Press</h1>
+                <h2 class="header">Incline Db Chest Press</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                <h6 class="sub-header">3 Sets</h6>
+                <h6 class="sub-header">Chest</h6>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
-                
+                <p class="notes">Lorem ipsum dolor sit amet consectetur adipisicing eli. Theo susss its the ddddd he lies.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <table>
+                    <tr>
+                        <td>3</td>
+                        <td>8-12</td>
+                        <td>03:00</td>
+                    </tr>
+                </table>
             </div>
         </div>
     </div>

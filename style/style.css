@@ -6,6 +6,12 @@ a {
     text-decoration: none;
 }
 
+table {
+    background-color: pink;
+    display: block;
+    margin: 20px 0;
+}
+
 .nav-header {
     color: red;
 }
@@ -40,4 +46,21 @@ a {
 
 .task-header {
     color: black;
+}
+
+.play-workout {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: rgba(255, 0, 0, 0.6);
+}
+
+.play-icon {
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.notes {
+    text-align: center;
 }

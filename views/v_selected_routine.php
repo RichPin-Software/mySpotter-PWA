@@ -33,7 +33,7 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h6 class="sub-header">4 Days</h6>
+                <h6 class="sub-header">4 Workouts</h6>
             </div>
         </div>
         <div class="row">

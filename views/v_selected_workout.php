@@ -38,6 +38,13 @@
         </div>
         <div class="row">
             <div class="col-12">
+                <a class="play-workout" href="#">
+                    <img class="play-icon" src="../icons/play-circle.svg" alt="add-routine" />
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
                 <a class="task" href="#">
                     <i class="task-header">Push-ups</i>
                 </a>
