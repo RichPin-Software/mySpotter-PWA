@@ -21,8 +21,8 @@
                 <h4 class="text-primary">mySpotter</h4>
             </div>
             <div class="col-2 col3">
-                <a class="add-routine" href="#">
-                <img src="../icons/plus-circle-fill.svg" alt="add-routine" />
+                <a class="edit-exercise" href="#">
+                <img src="../icons/pencil-fill.svg" alt="edit" />
                 </a>
             </div>
         </div>
@@ -41,7 +41,30 @@
                 <p class="notes">Lorem ipsum dolor sit amet consectetur adipisicing eli. Theo susss its the ddddd he lies.</p>
             </div>
         </div>
-        <div class="row ex-data-table">
+        <table class="table">
+            <tbody>
+                <tr>
+                    <td scope="col">3</td>
+                    <td scope="col">8-12</td>
+                </tr>
+                <tr>
+                    <td>Sets</td>
+                    <td>Reps</td>
+                </tr>
+                <tr>
+                    <td>03:00</td>
+                    <td>30</td>
+                </tr>
+                <tr>
+                    <td>Rest</td>
+                    <td>Weight</td>
+                </tr>
+            </tbody>
+        </table>
+
+
+
+        <!-- <div class="row ex-data-table">
             <div class="col-4 ex-data">
                 <p>3</p>
                 <p class="text-primary">Sets</p>
@@ -68,7 +91,7 @@
                 <p>30</p>
                 <p class="text-primary">Weight Last Set</p>
             </div>
-        </div>
+        </div> -->
         <div class="row timer">
             <div class="col-12">01:22</div>
         </div>
